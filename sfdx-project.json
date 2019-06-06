@@ -1,0 +1,15 @@
+{
+  "orgName": "DreamHouse Realty",
+  "edition": "Developer",
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1EncryptedStoragePref2": false
+    }
+  },
+  "packageDirectories": [
+    {
+        "path": "force-app",
+        "default": true
+    }
+]
+}
